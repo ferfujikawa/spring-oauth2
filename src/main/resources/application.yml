@@ -8,3 +8,6 @@ spring:
           github:
             clientId: ${CLIENT_ID}
             clientSecret: ${CLIENT_SECRET}
+
+server:
+  port: 8081
